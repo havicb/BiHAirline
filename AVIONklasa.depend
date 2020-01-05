@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1553906432 source:c:\users\belmin\desktop\c++ zadaci, pocetak\avionklasa\main.cpp
+	<iostream>
+	<cstring>
+	<vector>
+	<memory>
+
